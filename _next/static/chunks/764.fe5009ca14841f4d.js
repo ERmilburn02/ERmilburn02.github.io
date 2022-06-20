@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[764],{9764:function(e,s,a){a.r(s);var r=a(5893);a(7160);s.default=function(e){var s=e._src,a=e._poster,t=e._alt,c=e._className;return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)("model-viewer",{src:s,poster:a,alt:t,"shadow-intensity":"1","camera-controls":!0,"auto-rotate":!0,ar:!0,class:c})})}}}]);
